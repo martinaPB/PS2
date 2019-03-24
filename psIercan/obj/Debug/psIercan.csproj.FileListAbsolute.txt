@@ -1,0 +1,12 @@
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\obj\Debug\psIercan.Form1.resources
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\obj\Debug\psIercan.Properties.Resources.resources
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\obj\Debug\psIercan.csproj.GenerateResource.Cache
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\bin\Debug\psIercan.exe.config
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\bin\Debug\psIercan.exe
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\bin\Debug\psIercan.pdb
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\bin\Debug\Simulator.pdb
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\obj\Debug\psIercan.csprojResolveAssemblyReference.cache
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\obj\Debug\psIercan.exe
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\obj\Debug\psIercan.pdb
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\bin\Debug\Simulator.dll
+c:\users\eugen\documents\visual studio 2017\Projects\psIercan\psIercan\bin\Debug\Simulator.dll.config

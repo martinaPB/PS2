@@ -1,0 +1,10 @@
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\bin\Debug\TCP_PLC.exe.config
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\bin\Debug\TCP_PLC.exe
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\bin\Debug\TCP_PLC.pdb
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\bin\Debug\Simulator.dll
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\bin\Debug\Simulator.pdb
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\bin\Debug\Simulator.dll.config
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.Properties.Resources.resources
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csproj.GenerateResource.Cache
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.exe
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.pdb

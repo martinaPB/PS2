@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainWindow", "psIercan\MainWindow.csproj", "{A7BC136C-798E-41F6-B50F-508477A92774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulator", "Simulator\Simulator.csproj", "{5C4FF8E2-FBC5-451A-BCB0-59E7193B043F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_PLC", "TCP_PLC\TCP_PLC.csproj", "{834C57E0-DCD5-4E41-AA67-DAF879F99043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BC136C-798E-41F6-B50F-508477A92774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BC136C-798E-41F6-B50F-508477A92774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BC136C-798E-41F6-B50F-508477A92774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BC136C-798E-41F6-B50F-508477A92774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4FF8E2-FBC5-451A-BCB0-59E7193B043F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4FF8E2-FBC5-451A-BCB0-59E7193B043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4FF8E2-FBC5-451A-BCB0-59E7193B043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4FF8E2-FBC5-451A-BCB0-59E7193B043F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834C57E0-DCD5-4E41-AA67-DAF879F99043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834C57E0-DCD5-4E41-AA67-DAF879F99043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834C57E0-DCD5-4E41-AA67-DAF879F99043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834C57E0-DCD5-4E41-AA67-DAF879F99043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

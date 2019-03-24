@@ -1,0 +1,14 @@
+C:\Users\Martina\Desktop\psIercan\psIercan\bin\Debug\psIercan.exe.config
+C:\Users\Martina\Desktop\psIercan\psIercan\bin\Debug\psIercan.exe
+C:\Users\Martina\Desktop\psIercan\psIercan\bin\Debug\psIercan.pdb
+C:\Users\Martina\Desktop\psIercan\psIercan\bin\Debug\Simulator.dll
+C:\Users\Martina\Desktop\psIercan\psIercan\bin\Debug\Simulator.pdb
+C:\Users\Martina\Desktop\psIercan\psIercan\bin\Debug\Simulator.dll.config
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\MainWindow.csprojAssemblyReference.cache
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\psIercan.Form1.resources
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\psIercan.Properties.Resources.resources
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\MainWindow.csproj.GenerateResource.cache
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\MainWindow.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\MainWindow.csproj.CopyComplete
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\psIercan.exe
+C:\Users\Martina\Desktop\psIercan\psIercan\obj\Debug\psIercan.pdb

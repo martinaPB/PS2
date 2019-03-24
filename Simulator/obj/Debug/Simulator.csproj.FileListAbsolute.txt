@@ -1,0 +1,8 @@
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\bin\Debug\Simulator.pdb
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\obj\Debug\Simulator.pdb
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\bin\Debug\Simulator.dll.config
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\bin\Debug\Simulator.dll
+c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\Simulator\obj\Debug\Simulator.dll
