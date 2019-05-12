@@ -1,0 +1,101 @@
+/*                                                UNUSED COOL PROGRESS BAR*/
+
+.outer-wrapper{
+  display: inline-block;
+  margin: 5px 15px;
+  padding: 25px 15px;
+  background: #eee;
+  min-width: 50px;
+}
+
+.column-wrapper{
+  height: 200px;
+  width: 20px;
+  background: #CFD8DC;
+  transform: rotate(180deg);
+  margin: 0 auto;
+}
+
+.column{
+  //position: relative;
+  //display: block;
+  //bottom: 0;
+  width: 20px;
+  height: 0%;
+  background: #90A4AE;
+  //transfrom: -moz-translateY(-10px);
+}
+
+.percentage, .value{
+  margin-top: 10px;
+  padding: 5px 10px;
+  color: #FFF;
+  background: #263238;
+  position: relative;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.value{
+  background: #7986CB;
+}
+
+/*                                                 PROGRESS BAR*/
+
+/* Bottom right text */
+meter {
+  width: 442px;
+  height: 50px;
+  transform: rotate(270deg);
+  float: left;
+  left: 33.49%;
+  position: absolute;
+  top: 47%;
+  color: #FFF;
+}
+
+/*                                                 BUTTONS*/
+
+.s0 {
+  float: right;
+  right: 25.2%;
+  position: absolute;
+  top: 10.6%;
+}
+
+.s1 {
+  float: right;
+  right: 25.2%;
+  position: absolute;
+  top: 16.3%;
+}
+
+.s3 {
+  float: right;
+  right: 25.2%;
+  position: absolute;
+  top: 27.8%;
+}
+
+.s4 {
+  float: right;
+  right: 25.2%;
+  position: absolute;
+  top: 33.7%;
+}
+
+.s5 {
+  float: right;
+  right: 25.2%;
+  position: absolute;
+  top: 39.4%;
+}
+
+/*                                                 RADIO BUTTONS*/
+
+.radio-button {
+  float: right;
+  right: 82%;
+  position: absolute;
+  top: 11%;
+}

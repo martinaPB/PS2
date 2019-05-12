@@ -22,7 +22,6 @@ namespace TCP_PLC
             _process = Process;
         }
 
-
         public void Send()
         {
             try
